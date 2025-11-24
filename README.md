@@ -64,7 +64,7 @@ npm start
 yarn start
 ```
 
-O aplicativo estará disponível em `http://localhost:[PORTA]`.
+O aplicativo estará disponível em `[http://localhost:[PORTA]](https://matheusnreis.github.io/Imersao_DevGoogle-Alura/)`.
 
 -----
 
